@@ -5,6 +5,9 @@ Customer churn analysis using Python (Pandas, Visualization, Feature Engineering
 ## 📌 Project Overview
 This project analyzes customer churn data to understand patterns in customer behavior and identify factors influencing churn.
 
+## 🎯 Problem Statement
+Customer churn refers to customers leaving a service. This project aims to analyze churn patterns and identify key factors influencing customer retention.
+
 ## 🔧 Tools & Technologies
 - Python (Pandas, NumPy)
 - Data Visualization (Matplotlib, Seaborn)
