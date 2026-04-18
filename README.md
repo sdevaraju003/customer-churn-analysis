@@ -1,4 +1,4 @@
-# customer-churn-analysis
+# Customer-Churn-Analysis
 Customer churn analysis using Python (Pandas, Visualization, Feature Engineering)
 # Customer Churn Data Analysis
 
